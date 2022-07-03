@@ -148,3 +148,11 @@ Analisando a imagem acima, podemos destacar algumas coisas:
 ❌ Git é uma plataforma para criar um ambiente de colaboração entre devs.
 
 ***
+### 4. O que é um scrum Product Owner? 
+#### É o dono do Product Backlog
+<pre>
+• Deve estudar o projeto e desmembrar em todas as funcionalidades que o produto necessita;
+• Remove/Atualiza os itens do Product Backlog;
+• Aplica o zooming(refinanamento) no topo do Product Backlog para a próxima Sprint Planning.</pre>
+
+***
