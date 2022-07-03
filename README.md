@@ -19,3 +19,9 @@ Desafio proposto ao fim da primeira Sprint do **Programa de Bolsas de NodeJS da 
  - [Git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
  - [Fluxo de trabalho de Gitflow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
  - [Códigos de status de respostas HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
+
+## Desafios
+
+### 1. Para que serve o método Scrum? 
+O método Scrum tem como objetivo auxiliar as pessoas envolvidas a ``resolver problemas complexos``, permitindo a entrega de produtos de maneira ``ágil`` e com ``qualidade``. Ele se diferencia dos outros métodos principalmente por possuir um ciclo de desenvolvimento estritamente definido.
+***
