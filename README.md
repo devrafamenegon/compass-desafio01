@@ -263,3 +263,8 @@ Para a atualização/alteração de dados podemos utilizar os métodos `Put` e `
 
 #### `Patch`: Utilizando o método Patch deixamos claro que `apenas uma parte` dos dados serão atualizados.
 ***
+### 13. Qual o status code que pode ser usado na criação de um novo usuário? 
+`201: Created ✔`
+Este código descreve que a requisição foi bem sucedida e os dados enviados foram criados com sucesso.
+
+***
