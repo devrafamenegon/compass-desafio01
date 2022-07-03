@@ -172,3 +172,23 @@ Para que essa comunicação aconteça, alguns padrões devem ser estabelecidos e
 💡 *Ele é o protocolo mais importante da Internet*. 
 
 ***
+### 7. Como funciona o HTTP? 
+#### O Protocolo HTTP segue o modelo REQUEST-RESPONSE;
+
+```mermaid
+graph LR;
+    Cliente-->| HTTP Request |Servidor
+    Servidor-->| Request |BancoDeDados
+    BancoDeDados-->| Response |Servidor
+    Servidor-->| HTTP Response |Cliente
+```
+```
+1. Cliente envia uma requisição ao servidor;
+2. Dentro da requisição é enviado um método, o qual indica a intenção do cliente;
+3. O servidor interpreta a requisição e caso necessário faz a busca no Banco de Dados;
+4. O Banco de Dados, se tiver as informações solicitadas, envia uma resposta com as mesmas;
+5. Agora com os dados, o servidor envia, além das informações, um código que indica ao cliente a situação do pedido.
+```
+📃 Uma requisição precisa ter **todas as informações** para o servidor gerar a resposta;<br>
+🤚🏻 `HTTP` é `STATELESS` (Não mantém informações salvas de outras requisições);
+***
