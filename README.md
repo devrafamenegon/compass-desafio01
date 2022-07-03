@@ -256,3 +256,10 @@ git merge <nome-do-outro-branch>
 </details>
 
 ***
+### 12. Quais os dois verbos http que podemos utiizar para realizar um update? Explique a diferença entre eles. 
+Para a atualização/alteração de dados podemos utilizar os métodos `Put` e `Patch`, segue uma breve explicação da diferença entre ambos.
+
+#### `Put`: Ao utilizar o método Put, fica claro que `todos` os dados do referente serão atualizados.
+
+#### `Patch`: Utilizando o método Patch deixamos claro que `apenas uma parte` dos dados serão atualizados.
+***
