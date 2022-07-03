@@ -279,3 +279,21 @@ Caso a operação **ainda não tiver sido confirmada**.
 Caso o servidor tente excluir um dado que **já foi excluído**, ou **não exista**, a operação será bem sucedida.
 
 ***
+### 15. Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)! 
+
+#### `1xx`: Respostas de informações.
+O usuário recebe algumas **informações úteis** que o auxiliarão a como continuar navegando.
+
+#### `2xx`: Respostas de sucesso.
+Mensagens que indicam **sucesso** em relação ao que foi feito, criação, validação e entre outras afirmações.
+
+#### `3xx`: Redirecionamentos.
+Um exemplo para este código é quando você acessa um endereço, e pelo cabeçalho de resposta `Location` você é **redirecionado para outra página**.
+
+#### `4xx`: Erros do cliente.
+Como a própria descrição diz, o usuário recebe este código quando fez algo errado, seja por **acessar um endereço inválido** ou quando **não possui a autorização necessária**.
+
+#### `5xx`: Erros do servidor.
+Aqui inclui-se erros envolvendo o **servidor**, como um **método não suportado**, alguma situação **não compreendida** e entre outros fatores.
+
+***
