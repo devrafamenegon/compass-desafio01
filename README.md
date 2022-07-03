@@ -304,3 +304,32 @@ Aqui inclui-se erros envolvendo o **servidor**, como um **método não suportado
   Minhas expectativas para as próximas semanas estão lá no alto, ansioso por todo o conteúdo que vem pela frente, pela troca de aprendizado com meus colegas de equipe, instrutores e observadores. Um objetivo até o fim da próxima Sprint é dar início a um projeto pessoal que possa agregar tudo que já aprendi até o momento e o que verei durante os próximos 15 dias. Por fim, pretendo manter o foco no processo e não perder a oportunidade de ser melhor a cada dia, afim de me capacitar com excelência em todos os pontos trabalhados durante o programa. 
 
 ***
+## Outras Referências
+
+ - [O que é Git e Github](https://www.alura.com.br/artigos/o-que-e-git-github?gclid=CjwKCAjw_ISWBhBkEiwAdqxb9vTIn8Lnudcdgf5Ca0B8YZKjDUsMrupVgmULjYH2JLc69xdvqR1MNxoCUXMQAvD_BwE)
+ - [Git e Github quais são as diferenças?](https://www.treinaweb.com.br/blog/git-e-github-quais-as-diferencas)
+ - [Github Icons](https://github.com/shyoutarou/README-Model/blob/master/gistfile1.md#people)
+ - [Github Commands](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+ - [Git pull usage](https://www.atlassian.com/git/tutorials/syncing/git-pull)
+ - [Propor alterações no trabalho com pull requests](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests)
+ - [Git](https://git-scm.com/docs)
+ - [Branch e Pull Request](https://medium.com/reprogramabr/entendendo-sobre-branch-e-pull-request-516aea4e364f#:~:text=Quando%20criamos%20um%20reposit%C3%B3rio%2C%20ele,portanto%2C%20ramos%20da%20branch%20master.)
+ - [Guia para linguagem de marcação simples](https://www.ionos.com/digitalguide/websites/web-development/markdown/#:~:text=Text%20can't%20be%20underlined,avoid%20confusing%20the%20two%20uses.)
+ - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+ - [Significado de HTTP](https://www.significados.com.br/http/#:~:text=HTTP%20%C3%A9%20sigla%20de%20HyperText,Protocolo%20de%20Transfer%C3%AAncia%20de%20Hipertexto%22.)
+ - [Entenda o que é HTTP](https://rockcontent.com/br/blog/http/)
+ - [O que é HTTP, Request, GET, POST, Response, 200, 404?](https://www.treinaweb.com.br/blog/o-que-e-http-request-get-post-response-200-404#:~:text=Resumo,a%20a%C3%A7%C3%A3o%20que%20ele%20deseja.)
+ - [Diferença entre Put e Patch](https://cursos.alura.com.br/forum/topico-diferenca-entre-put-e-patch-44669)
+ - [HTTP Status Code Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status)
+ - [HTTP Status Code](https://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete#:~:text=For%20a%20DELETE%20request%3A%20HTTP,but%20not%20fully%20applied%20yet.)
+ - [Mermaid Github](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+ - [Mermaid Github Diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
+ - [Mermaid JS](https://mermaid-js.github.io/mermaid/#/gitgraph)
+ - [Mermaid Live](https://mermaid.live/)
+ - [Mermaid Cheat Sheet](https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/)
+ 
+ ## Autor
+
+| <img src="https://avatars.githubusercontent.com/devrafamenegon" width=115>
+|---
+| <a href="https://github.com/devrafamenegon">Rafael Menegon</a>
