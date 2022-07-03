@@ -225,3 +225,14 @@ gitGraph
 ```
 
 ***
+### 10. Quais são os comandos usados para atualizar um repositório local e fazer merge de um outro branch ao seu branch ativo? 
+
+Para trazer mudanças do `repositório remoto` para o seu `repositório local`: 
+```
+git pull <nome-do-repositório-remoto>
+```
+estando no `branch ativo`, basta utilizar o seguinte comando: 
+```
+git merge <nome-do-outro-branch>
+```
+***
