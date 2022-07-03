@@ -236,3 +236,23 @@ estando no `branch ativo`, basta utilizar o seguinte comando:
 git merge <nome-do-outro-branch>
 ```
 ***
+### 11. Qual a diferença entre git e github? 
+**Git** é um `sistema de controle de versões de código`, o qual é instalado e mantido `localmente`, já o **Github** é uma `plataforma em cloud` que hospeda `repositórios versionados com o git`.
+
+<details>
+  <summary>:octocat: <strong>Github</strong></summary>
+  <pre>
+  • Hospeda gratuitamente repositórios Git;
+  • Pertence à Microsoft desde 2018;
+  • Github é uma plataforma para criar um ambiente de colaboração entre devs.</pre>
+</details>
+
+<details>
+  <summary>:small_orange_diamond: <strong>Git</strong></summary>
+  <pre>
+  • Projetado e desenvolvido pelo Linus Torvalds;
+  • Sistema de controle de versão de arquivos;
+  • Mantém pontos na história que podem ser acessados a qualquer momento;</pre>
+</details>
+
+***
