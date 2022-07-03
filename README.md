@@ -272,7 +272,7 @@ Este código descreve que a requisição foi bem sucedida e os dados enviados fo
 `200: OK`
 Este código descreve que a requisição foi **bem sucedida**, ou seja, a **deleção foi realizada com sucesso**.
 
-`204: Accepted`
+`202: Accepted`
 Caso a operação **ainda não tiver sido confirmada**.
 
 `204: No Content`
