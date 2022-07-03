@@ -163,3 +163,12 @@ Analisando a imagem acima, podemos destacar algumas coisas:
 
 Para ver mais informações sobre os comandos `git`, você pode acessar a documentação oficial [aqui](https://git-scm.com/docs).
 ***
+### 6. O que é o HTTP? 
+#### Hypertext Transfer Protocol
+
+O `HTTP` é um Protocolo de `comunicação entre sistemas` que permite a transferência de dados entre eles, popularmente utilizando a `World Wide Web`. 
+Para que essa comunicação aconteça, alguns padrões devem ser estabelecidos entre o `Cliente(ex: navegador)` e o `Servidor`.
+
+💡 *Ele é o protocolo mais importante da Internet*. 
+
+***
