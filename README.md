@@ -297,3 +297,10 @@ Como a própria descrição diz, o usuário recebe este código quando fez algo 
 Aqui inclui-se erros envolvendo o **servidor**, como um **método não suportado**, alguma situação **não compreendida** e entre outros fatores.
 
 ***
+### 16. Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:
+  
+  Em uma palavra, posso dizer que minha experiência com a primeira Sprint foi enriquecedora. Me senti muito bem acolhido e instruído por todo o time do programa, observadores e instrutores excelentes. Particularmente fiquei muito tranquilo quando nos foi dito que utilizaríamos a plataforma da Alura, pois sabia que teria um grande acervo de cursos de alta qualidade. Em relação ao conteúdo passado nessa Sprint, achei que foi muito bem selecionado, contendo temas e assuntos de certa forma mais tranquilos, mas que serão utilizados durante todo o programa de capacitação. Quanto aos Workshops, achei que foram muito bem apresentados, sendo um bom complemento para os conteúdos vistos nos cursos e artigos propostos. Em relação às reuniões diárias, achei que agregaram muito valor para minha organização e autocrítica, além de que foram muito bem orquestradas pela nossa observadora, tornando o processo bem agradável. Um ponto muito importante que não poderia deixar de destacar, foi o constante suporte de toda a equipe, que sempre nos incentivou a não seguir com dúvidas, podendo chama-los a qualquer momento, aliás, das vezes que precisei de ajuda, fui muito bem auxiliado, tanto pelos instrutores quanto pelos observadores.
+  
+  Minhas expectativas para as próximas semanas estão lá no alto, ansioso por todo o conteúdo que vem pela frente, pela troca de aprendizado com meus colegas de equipe, instrutores e observadores. Um objetivo até o fim da próxima Sprint é dar início a um projeto pessoal que possa agregar tudo que já aprendi até o momento e o que verei durante os próximos 15 dias. Por fim, pretendo manter o foco no processo e não perder a oportunidade de ser melhor a cada dia, afim de me capacitar com excelência em todos os pontos trabalhados durante o programa. 
+
+***
