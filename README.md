@@ -156,3 +156,10 @@ Analisando a imagem acima, podemos destacar algumas coisas:
 • Aplica o zooming(refinanamento) no topo do Product Backlog para a próxima Sprint Planning.</pre>
 
 ***
+### 5. Qual o comando para criação de um novo repositório no Git? 
+<pre>
+<code>git init</code>
+</pre>
+
+Para ver mais informações sobre os comandos `git`, você pode acessar a documentação oficial [aqui](https://git-scm.com/docs).
+***
