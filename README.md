@@ -192,3 +192,13 @@ graph LR;
 📃 Uma requisição precisa ter **todas as informações** para o servidor gerar a resposta;<br>
 🤚🏻 `HTTP` é `STATELESS` (Não mantém informações salvas de outras requisições);
 ***
+### 8. Com o Git Você pode propor mudanças (adicioná-las ao Index) usando um comando. Qual é esse comando? 
+Para adicionar apenas `um` arquivo
+```
+git add <nome-do-arquivo>
+```
+Para adicionar `todos` os arquivos modificados/criados/deletados
+```
+git add .
+```
+***
