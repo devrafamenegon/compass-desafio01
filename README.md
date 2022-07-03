@@ -268,3 +268,14 @@ Para a atualização/alteração de dados podemos utilizar os métodos `Put` e `
 Este código descreve que a requisição foi bem sucedida e os dados enviados foram criados com sucesso.
 
 ***
+### 14. Quais são os três status code que podem ser utilizados para realizar o delete? 
+`200: OK`
+Este código descreve que a requisição foi **bem sucedida**, ou seja, a **deleção foi realizada com sucesso**.
+
+`204: Accepted`
+Caso a operação **ainda não tiver sido confirmada**.
+
+`204: No Content`
+Caso o servidor tente excluir um dado que **já foi excluído**, ou **não exista**, a operação será bem sucedida.
+
+***
