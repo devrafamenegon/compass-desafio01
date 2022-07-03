@@ -139,3 +139,12 @@ Analisando a imagem acima, podemos destacar algumas coisas:
 </details>
 
 ***
+### 3. O que é Git? 
+#### Git é uma sistema de controle de versões.
+
+ ✔ Auxilia no desenvolvimento do projeto em equipe;<br>
+ ✔ Mantém pontos na história que podem ser acessados a qualquer momento;<br>
+ ✔ Utiliza repositórios para armazenar seu projeto;<br>
+❌ Git é uma plataforma para criar um ambiente de colaboração entre devs.
+
+***
