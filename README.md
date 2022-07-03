@@ -202,3 +202,26 @@ Para adicionar `todos` os arquivos modificados/criados/deletados
 git add .
 ```
 ***
+### 9. O que é a Branch master e para que serve?
+#### 📌 O ramo principal
+A *Branch Master*, é o `ramo que da origem às outras Branches`, ela é `criada automaticamente` quando iniciamos um novo projeto. 
+Algumas fontes fazem uma analogia de que a ela é como o tronco de uma árvore, e a partir dela surgem os galhos, ou melhor, os `Ramos de Desenvolvimento`.
+
+```mermaid
+gitGraph
+       commit
+       commit
+       branch develop
+       commit
+       commit
+       branch feature
+       commit
+       commit
+       checkout develop
+       merge feature
+       commit
+       checkout main
+       merge develop
+```
+
+***
